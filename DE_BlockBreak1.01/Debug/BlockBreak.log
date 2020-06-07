@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\tnakahara\source\repos\blockbreak\main.cpp(57): warning C4302: '型キャスト': 'LPWSTR' から 'WORD' へ切り詰めます。
+c:\users\tnakahara\source\repos\blockbreak\main.cpp(58): warning C4302: '型キャスト': 'LPWSTR' から 'WORD' へ切り詰めます。
+  BlockBreak.vcxproj -> C:\Users\tnakahara\source\repos\BlockBreak\Debug\BlockBreak.exe
